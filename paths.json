@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/en:/",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/en/:/en/",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/fr/:/fr/",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/fr:/fr",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/es/:/es/",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/es:/es",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/ja/:/ja/",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/ja:/ja",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/de/:/de/",
+    "/content/austa-austa-2026-3-17-17-25-38/language-masters/de:/de",
+    "/content/austa-austa-2026-3-17-17-25-38/configuration:/.helix/config.json",
+    "/content/austa-austa-2026-3-17-17-25-38/metadata:/metadata.json",
+    "/content/austa-austa-2026-3-17-17-25-38/redirects:/redirects.json",
+    "/content/austa-austa-2026-3-17-17-25-38/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/austa-austa-2026-3-17-17-25-38/",
+    "/content/dam/austa-austa-2026-3-17-17-25-38/"
   ]
 }
